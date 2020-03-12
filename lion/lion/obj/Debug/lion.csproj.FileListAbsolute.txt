@@ -1,0 +1,6 @@
+C:\Users\Bill\source\repos\lion\lion\bin\Debug\lion.exe.config
+C:\Users\Bill\source\repos\lion\lion\bin\Debug\lion.exe
+C:\Users\Bill\source\repos\lion\lion\bin\Debug\lion.pdb
+C:\Users\Bill\source\repos\lion\lion\obj\Debug\lion.csprojAssemblyReference.cache
+C:\Users\Bill\source\repos\lion\lion\obj\Debug\lion.exe
+C:\Users\Bill\source\repos\lion\lion\obj\Debug\lion.pdb
